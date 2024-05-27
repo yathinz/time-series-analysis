@@ -40,4 +40,4 @@ air traffic: (linearly increasing, very significant seasonality, big outliers du
   Trees:
     RMSE - 5.05
     MAPE - 0.048
-    time - 1 second
+    time - 2 seconds

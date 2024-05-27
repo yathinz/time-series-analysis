@@ -4,7 +4,7 @@ only basic data manipulation done before training, scaling with 40 lags for neur
 TSLA: (exponentially increasing, no significant seasonality, no big outliers, value around 1100 near prediction range, 523 training data points)
 
 
-  basic RNN 2 epochs: 
+  basic RNN 2 epochs: \n
     RMSE - 133.42
     MAPE - 0.118
     time - 8 seconds

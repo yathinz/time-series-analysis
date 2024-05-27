@@ -1,4 +1,4 @@
-only basic data manipulation done before training, scaling with 40 lags for neural networks, predicting 12 data points after lasst input given, same for random trees, with extra boxcox manipulation, no a hyper-parameter optimization done.
+only basic data manipulation done before training, scaling with 40 lags for neural networks, predicting 12th data point after last input given, same for random trees, with extra boxcox manipulation, no a hyper-parameter optimization done.
 
 
 TSLA: (exponentially increasing, no significant seasonality, no big outliers, value around 1100 near prediction range, 523 training data points)
